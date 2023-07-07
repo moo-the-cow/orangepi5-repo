@@ -1,0 +1,36 @@
+Package: belacoder
+Version: 0.0.1
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moodev/base/binary-arm64/dev_belacoder_0.0.1_arm64.deb
+Size: 10512
+MD5sum: 4cc5f7f0bc10b5333afcfc187941c402
+SHA1: 152a6678ece7ec6a983f9d219d99a517dd519910
+SHA256: 20fbafc97d898d0e6f9714cc1b70ee11687582be42ceb6c86d7c730733861e0f
+Homepage: https://github.com/moo-the-cow
+Description: SRT SENDER with bonding/grouping activated
+
+Package: moowss-client
+Version: 0.1.6
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moodev/base/binary-arm64/dev_moowss-client_0.1.6_arm64.deb
+Size: 5519584
+MD5sum: 7e7a7a76fe6cc701cb43898815a58529
+SHA1: 95e044eaee02a5cec037b107d5062ee1af257126
+SHA256: 9a5dea46ae4934fb9449f7082cac40d108fdd5465952f4d55f4248374f475d2c
+Homepage: https://github.com/moo-the-cow
+Description: Streaming UI Websocket Client in dotnet core
+
+Package: srtla
+Version: 0.0.1
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moodev/base/binary-arm64/dev_srtla_0.0.1_arm64.deb
+Size: 24632
+MD5sum: ab8b83d11de9ebdf0e246af682b046fa
+SHA1: c0de1c845b43f8367a42527f97d78c62d8a5ba32
+SHA256: 26eaa24793712bd1c0fdc133ae90db9cd79b88a57bf3ee5e76ebbc94446c9476
+Homepage: https://github.com/moo-the-cow
+Description: Program that receives Gstreamer Pipeline data and forwards to local srtla_send program
+
