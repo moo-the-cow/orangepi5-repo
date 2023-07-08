@@ -1,0 +1,12 @@
+Package: moo-docker
+Version: 0.0.1
+Architecture: arm64
+Maintainer: moo-the-cow <moo@liwest.at>
+Filename: dists/moo/extras/binary-arm64/stable_moo-docker_0.0.1_arm64.deb
+Size: 2212
+MD5sum: 6677c0a59eb5f7e85b3e5a6dd196a759
+SHA1: a6f933280fa4eb8f7d53988338eed6f7b92350d2
+SHA256: 458ca41c6587cb54f948bfe9d8b5c1c05bed33a26fd8ea37c485695488a968d2
+Homepage: https://github.com/moo-the-cow
+Description: Docker compose files for srtla nginx and rtmp nginx
+

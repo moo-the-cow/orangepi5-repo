@@ -1,0 +1,30 @@
+Origin: Moo Repository
+Label: Streaming
+Suite: stable
+Codename: moo
+Version: 1.0
+Architectures: arm64
+Components: base extras
+Description: moo repository
+Date: Sat, 08 Jul 2023 05:30:46 +0000
+MD5Sum:
+ e02ccb7925f266219de4040a400d1806 448 extras/binary-arm64/Packages
+ 6677c0a59eb5f7e85b3e5a6dd196a759 2212 extras/binary-arm64/stable_moo-docker_0.0.1_arm64.deb
+ 87d741097e12954108383b7adef9cdc2 5519600 base/binary-arm64/stable_moowss-client_0.1.6_arm64.deb
+ 7efa4108a4819755e461ac60c28149a8 1356 base/binary-arm64/Packages
+ 8b8c1b52c7517f633f76102c79c3d735 10512 base/binary-arm64/stable_belacoder_0.0.1_arm64.deb
+ aaabb13451d73bdc1d482e5f5ab9d3a8 24628 base/binary-arm64/stable_srtla_0.0.1_arm64.deb
+SHA1:
+ 1cf42a3e67c251bda9a7bacffe8a0024bb18db00 448 extras/binary-arm64/Packages
+ a6f933280fa4eb8f7d53988338eed6f7b92350d2 2212 extras/binary-arm64/stable_moo-docker_0.0.1_arm64.deb
+ 752b54a9a1fde2af2312d1d84f9de76530a871ee 5519600 base/binary-arm64/stable_moowss-client_0.1.6_arm64.deb
+ 31c340c399e48ee99f254776db1121e3d6920a4e 1356 base/binary-arm64/Packages
+ 04df46ffeddc538a7bde98e7733602a6b68efc9f 10512 base/binary-arm64/stable_belacoder_0.0.1_arm64.deb
+ a6b1afddc3b5b851d42ad527cbc62854b6603c96 24628 base/binary-arm64/stable_srtla_0.0.1_arm64.deb
+SHA256:
+ 1c131f50f1c1d8a72818c086bcc11d8899b4cf3667e0f6a29da153225b932264 448 extras/binary-arm64/Packages
+ 458ca41c6587cb54f948bfe9d8b5c1c05bed33a26fd8ea37c485695488a968d2 2212 extras/binary-arm64/stable_moo-docker_0.0.1_arm64.deb
+ b6c7a959e1a3590826897e246c066de9ee46b2bc169e4bf378f8aa35c9c21fe3 5519600 base/binary-arm64/stable_moowss-client_0.1.6_arm64.deb
+ 00e63437299caad7a3cd8f583ef32d23f7caf657a62121a68cf138a143832296 1356 base/binary-arm64/Packages
+ af06322e7f5eb5d908ff0ef2d0f509a864084a3875314d1bc8e4dd660916a359 10512 base/binary-arm64/stable_belacoder_0.0.1_arm64.deb
+ fc2af20078bd3812ce2376904979c8236f508cce199e44600c055e0a2f8040d0 24628 base/binary-arm64/stable_srtla_0.0.1_arm64.deb
